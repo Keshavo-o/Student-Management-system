@@ -30,7 +30,7 @@ This is a simple web-based Student Management System built using PHP, MySQL, HTM
 ####    stu_mob VARCHAR(15) NOT NULL,
 ####    stu_course VARCHAR(50) NOT NULL,
 ####    stu_10_per FLOAT NOT NULL,
-####    img_link VARCHAR(255) DEFAULT NULL,
+####    stu_img_link VARCHAR(255) DEFAULT NULL,
 ####    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 #### );
 #### (Press Enter)
